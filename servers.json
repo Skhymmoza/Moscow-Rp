@@ -1,1 +1,15 @@
-
+[
+  {
+    "online": "672",
+    "maxonline": "1000",
+    "color": "121212",
+    "x2": "true",
+    "key": "1424",
+    "name": "MOSCOW",
+    "firstname": "",
+    "secondname": "",
+    "url": "",
+    "ip": "188.127.241.74",
+    "port": "3412"
+  }
+]
